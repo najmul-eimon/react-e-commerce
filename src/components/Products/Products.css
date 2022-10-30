@@ -1,0 +1,35 @@
+.title{
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 58px;
+}
+
+.product-category{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32px;
+}
+
+.product-category button{
+  width: 120px;
+  padding: 8px 0;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(14, 14, 16, 0.4);
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+.product-category button.active{
+  font-weight: 700;
+  color: #fff;
+  background-color: #1A3C40;
+}
+
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding-bottom: 70px;
+}
