@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "635e0d13d77dbd6be0972864",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  },
+  {
+    "_id": "635e0d136b5046438c6d05fe",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/yS1pCCd/img-2.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  },
+  {
+    "_id": "635e0d13e2cabe7d9bd5c26d",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/7btRb6j/img-3.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  },
+  {
+    "_id": "635e0d13a3a18ad4132b361a",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  },
+  {
+    "_id": "635e0d13843873640aacaa96",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/yS1pCCd/img-2.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  },
+  {
+    "_id": "635e0d1343fa81e2982603e7",
+    "category": "men",
+    "name": "Short T-Shirt",
+    "price": 364,
+    "img": "https://i.ibb.co/7btRb6j/img-3.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus amet, gravida cras nulla arcu. Interdum adipiscing morbi in lacus, sed euismod ipsum dictum.",
+    "color": [
+      "darkred",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ]
+  }
+]
