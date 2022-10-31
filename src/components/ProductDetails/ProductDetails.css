@@ -352,13 +352,13 @@
 }
 
 .swiper-button-prev {
-  top: 40px;
+  top: 25px;
   bottom: auto;
   left: calc(50% - 12px);
 }
 
 .swiper-button-next {
-  bottom: 10px;
+  bottom: 5px;
   top: auto;
   right: calc(50% - 12px);
 }
