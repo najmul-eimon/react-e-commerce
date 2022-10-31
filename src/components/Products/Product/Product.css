@@ -1,5 +1,6 @@
 .single-product {
   width: 196px;
+  position: relative;
 }
 
 .product-img {
@@ -10,23 +11,24 @@
   display: flex;
   align-self: center;
   justify-content: center;
-  /* border: 0.5px solid rgba(14, 14, 16, 0.2); */
   border: 0.5px solid #F1F3F4;
   border-radius: 5px;
   overflow: hidden;
-  position: relative;
 }
-.product-img img{
+
+.product-img img {
   width: 100%;
   object-fit: contain;
 }
-.product-img .status{
+
+.product-img .status {
   min-width: 52px;
   background-color: #1D5C63;
   color: #fff;
+  border-radius: 2px;
   font-weight: 500;
-font-size: 12px;
-line-height: 18px;
+  font-size: 12px;
+  line-height: 18px;
   position: absolute;
   top: 0;
   right: 0;
@@ -34,13 +36,15 @@ line-height: 18px;
   padding: 1px 4px;
   text-align: center;
 }
-.product-img .discount{
+
+.product-img .discount {
   min-width: 52px;
   background-color: #0B0B0B;
   color: #fff;
   font-weight: 500;
-font-size: 12px;
-line-height: 18px;
+  border-radius: 2px;
+  font-size: 12px;
+  line-height: 18px;
   position: absolute;
   top: 25px;
   right: 0;
@@ -48,6 +52,7 @@ line-height: 18px;
   padding: 1px 4px;
   text-align: center;
 }
+
 .quick-action {
   position: absolute;
   top: 12px;
@@ -91,7 +96,7 @@ line-height: 18px;
   left: 100%;
   display: block;
   white-space: nowrap;
-  padding: 2px;
+  padding: 2px 4px;
   border-radius: 2px;
   background-color: #0E0E10;
   color: #fff;
@@ -142,7 +147,7 @@ line-height: 18px;
   color: #0E0E10;
 }
 
-.single-product h5 small{
+.single-product h5 small {
   display: inline-block;
   font-weight: 600;
   font-size: 14px;
@@ -170,11 +175,55 @@ line-height: 18px;
   margin-left: -8px;
   transition: all 0.2s;
 }
-.single-product .colors:hover li{
+
+.single-product .colors:hover li {
   margin-left: 8px;
 }
 
 .single-product .colors li:first-child {
   margin-left: 0;
   border: 1px solid rgba(205, 205, 205, 0.78);
+}
+
+@media (max-width: 768px) {
+  .single-product {
+    width: 138px;
+  }
+
+  .product-img {
+    height: 173px;
+  }
+
+  .product-img .status {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .quick-action {
+    position: relative;
+    opacity: 1;
+    visibility: visible;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    left: 0;
+    top: 4px;
+  }
+
+  .quick-action button:hover .tooltip {
+  display: none;
+}
+  .quick-action li:not(:last-child) {
+    margin-bottom: 0;
+  }
+
+  .single-product h5 span {
+    color: #1D5C63;
+  }
+  .single-product p {
+    padding-bottom: 4px;
+  }
+  .single-product .colors li{
+    margin-left: 4px;
+  }
+  
 }

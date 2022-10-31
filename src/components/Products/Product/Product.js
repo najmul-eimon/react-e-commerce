@@ -8,11 +8,12 @@ function Product({ product }) {
   return (
     <div className="single-product">
       <div className="product-img">
-        <Link className="product-img" to={`product-details/${_id}`} style={{ textDecoration: 'none'}}>
+        <Link className="product-img" to={`/${_id}`} style={{ textDecoration: 'none'}}>
           <img src={img} alt="" />
         </Link>
         {status === '' ? "" : <p className="status" style={status === 'sell' ? {textTransform: 'uppercase'}:{textTransform: 'capitalize'}}>{status}</p>}
         {discount && <p className="discount">-{discount}%</p>}
+        </div>
         <ul className="quick-action">
           <li>
             <button type="button">
@@ -90,10 +91,10 @@ function Product({ product }) {
             </button>
           </li>
         </ul>
-      </div>
+      
       <p>{category}</p>
       
-      <Link to={`product-details/${_id}`} style={{ textDecoration: 'none' }}>
+      <Link to={`/${_id}`} style={{ textDecoration: 'none' }}>
       <h4>
         {name}
         </h4>

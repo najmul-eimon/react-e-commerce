@@ -1,7 +1,7 @@
 [
   {
     "_id": "635e0d13d77dbd6be0972864",
-    "category": "men",
+    "category": "man",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
@@ -28,11 +28,13 @@
   },
   {
     "_id": "635e0d136b5046438c6d05fe",
-    "category": "men",
+    "category": "woman",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/yS1pCCd/img-2.png",
     "gallery": [
+      "https://i.ibb.co/yS1pCCd/img-2.png",
+      "https://i.ibb.co/yS1pCCd/img-2.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -53,11 +55,13 @@
   },
   {
     "_id": "635e0d13e2cabe7d9bd5c26d",
-    "category": "men",
+    "category": "new",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/7btRb6j/img-3.png",
     "gallery": [
+      "https://i.ibb.co/7btRb6j/img-3.png",
+      "https://i.ibb.co/7btRb6j/img-3.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -78,12 +82,14 @@
   },
   {
     "_id": "635e0d13a3a18ad4132b361a",
-    "category": "men",
+    "category": "on sell",
     "name": "Short T-Shirt",
     "price": 364,
     "discount": 15,
     "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
     "gallery": [
+      "https://i.ibb.co/ZgS8dpT/img-1.png",
+      "https://i.ibb.co/ZgS8dpT/img-1.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -104,12 +110,14 @@
   },
   {
     "_id": "635e0d13843873640aacaa96",
-    "category": "men",
+    "category": "on sell",
     "name": "Short T-Shirt",
     "price": 364,
     "discount": 15,
     "img": "https://i.ibb.co/yS1pCCd/img-2.png",
     "gallery": [
+      "https://i.ibb.co/yS1pCCd/img-2.png",
+      "https://i.ibb.co/yS1pCCd/img-2.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -130,11 +138,13 @@
   },
   {
     "_id": "635e0d1343fa81e2982603e7",
-    "category": "men",
+    "category": "man",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/7btRb6j/img-3.png",
     "gallery": [
+      "https://i.ibb.co/7btRb6j/img-3.png",
+      "https://i.ibb.co/7btRb6j/img-3.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -155,11 +165,12 @@
   },
   {
     "_id": "635e0d13d77dbd6be0972547",
-    "category": "men",
+    "category": "woman",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
     "gallery": [
+      "https://i.ibb.co/ZgS8dpT/img-1.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -180,11 +191,12 @@
   },
   {
     "_id": "635e0d136b5046438c6d05ht",
-    "category": "men",
+    "category": "new",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/yS1pCCd/img-2.png",
     "gallery": [
+      "https://i.ibb.co/yS1pCCd/img-2.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -205,11 +217,12 @@
   },
   {
     "_id": "635e0d13e2cabe7d9bd5c23j",
-    "category": "men",
+    "category": "man",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/7btRb6j/img-3.png",
     "gallery": [
+      "https://i.ibb.co/7btRb6j/img-3.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -230,12 +243,13 @@
   },
   {
     "_id": "635e0d13a3a18ad4132b364t",
-    "category": "men",
+    "category": "on sell",
     "name": "Short T-Shirt",
     "price": 364,
     "discount": 15,
     "img": "https://i.ibb.co/ZgS8dpT/img-1.png",
     "gallery": [
+      "https://i.ibb.co/ZgS8dpT/img-1.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -256,12 +270,13 @@
   },
   {
     "_id": "635e0d13843873640aacaa74",
-    "category": "men",
+    "category": "on sell",
     "name": "Short T-Shirt",
     "price": 364,
     "discount": 15,
     "img": "https://i.ibb.co/yS1pCCd/img-2.png",
     "gallery": [
+      "https://i.ibb.co/yS1pCCd/img-2.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
@@ -282,11 +297,12 @@
   },
   {
     "_id": "635e0d1343fa81e2982603x8",
-    "category": "men",
+    "category": "woman",
     "name": "Short T-Shirt",
     "price": 364,
     "img": "https://i.ibb.co/7btRb6j/img-3.png",
     "gallery": [
+      "https://i.ibb.co/7btRb6j/img-3.png",
       "https://i.ibb.co/tXnPDS2/img3.png",
 "https://i.ibb.co/Np70Qgy/img4.png",
 "https://i.ibb.co/sjrMQj3/img2.png"
